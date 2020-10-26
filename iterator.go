@@ -1,4 +1,3 @@
-// Package rbtree implements Red-Black tree data structure (RB-Tree).
 package rbtree
 
 type state byte
